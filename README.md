@@ -54,7 +54,7 @@
 |---|---|---|
 | `→` | **Full-stack web apps** | end-to-end applications |
 | `→` | **HTTP server** | built from scratch in C++ |
-| `→` | **Raycasting engine** | C++ graphics renderer |
+| `→` | **Raycasting engine** | C graphics renderer |
 | `→` | **C libraries & utilities** | low-level system tools |
 
 <br>
