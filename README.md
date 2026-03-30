@@ -3,6 +3,7 @@
   <p><code>full-stack web developer</code> &nbsp;·&nbsp; <code>1337 Coding School · 42 Network</code></p>
 </div>
 
+
 <br>
 
 <p align="center">
