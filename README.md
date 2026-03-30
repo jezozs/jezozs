@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td><strong>Web</strong></td>
-    <td><code>React</code> &nbsp;<code>Next.js</code> &nbsp;<code>Node.js</code></td>
+    <td><code>React</code> &nbsp;<code>Next.js</code> &nbsp;<code>Express.js</code></td>
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
