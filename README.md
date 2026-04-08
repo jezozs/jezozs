@@ -8,7 +8,7 @@
 
 <p align="center">
   Software engineering student with a foundation in system programming, algorithms, and software architecture.<br>
-  My journey started with raw C — pointers, memory, and algorithms.<br>
+  My journey started with raw C pointers, memory, and algorithms.<br>
   That background shapes how I think, but <strong>full-stack web development</strong> is where my passion lives.
 </p>
 
